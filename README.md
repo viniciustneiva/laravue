@@ -17,4 +17,6 @@ php artisan serve
     
 Acesse em http://localhost:8000
     
-    
+Você provavelmente verá uma tela assim!
+
+![Screenshot](screenshot.png)
